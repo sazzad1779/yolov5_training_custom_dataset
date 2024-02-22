@@ -1,0 +1,13 @@
+train: ../new_data/data_v3/train/images  # train images
+val: ../new_data/data_v3/val/images # val images
+
+# number of classes
+nc: 40
+
+# class names
+names: [ "N-TV", "Ekattor TV", "Jamuna TV", "R-TV", "Somoy-TV", "Channel24", "Gaan Bangla", "News24", "T-Sports", "G-Tv", "Desh TV", "Maasranga TV", "Deshi Tv", "Global Tv", "Asian TV", "Janmavumi TV", "MY TV", "Nandan TV", "Duranto TV", "Ananda TV", "ATN BANGLA", "ATN NEWS", "Bangla TV", "Bangla Vision", "Bijoy TV", "Boishaki TV", "Channel 9", "Channel I", "Channel S", "DBC News", "ETV", "Green TV", "Independent TV", "Mohona TV", "SA TV", "NRB TV", "TBN 24", "Rajdhani TV", "I TV","Nan TV"]
+
+
+
+
+
